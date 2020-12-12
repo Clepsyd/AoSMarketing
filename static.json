@@ -1,0 +1,5 @@
+{
+  "routes": {
+    "/.well-known/acme-challenge/KnkTm3ny9Q4EK-5F-RnAw_G-BA9nPWVYAHYEmT-xOF0": "acme_challenge.txt"
+  }
+}

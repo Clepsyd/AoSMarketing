@@ -1,5 +1,18 @@
 body {
-    padding: 20px;
-    padding-top: 50px;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    place-items: center;
     text-align: center;
+    height: 100vh;
+    box-sizing: border-box;
+}
+
+p {
+    margin: 10px;
+}
+
+.icon {
+    height: 30px;
+    width: 30px;
 }
